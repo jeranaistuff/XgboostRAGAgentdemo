@@ -1,0 +1,13 @@
+# ML
+xgboost
+scikit-learn
+pandas
+numpy
+matplotlib
+
+# RAG
+langchain
+langchain-community
+langchain-ollama
+langchain-chroma
+chromadb

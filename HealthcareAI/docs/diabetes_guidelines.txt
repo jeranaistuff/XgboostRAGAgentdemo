@@ -1,0 +1,46 @@
+RIVERSIDE MEDICAL CENTER - CLINICAL GUIDELINES
+Document: Type 2 Diabetes Management Protocol v3.2
+Last Updated: January 2025
+
+DIAGNOSIS CRITERIA
+- Fasting blood glucose >= 126 mg/dL on two separate occasions
+- HbA1c >= 6.5%
+- 2-hour plasma glucose >= 200 mg/dL during oral glucose tolerance test
+- Random plasma glucose >= 200 mg/dL with classic hyperglycemia symptoms
+
+GLYCEMIC TARGETS (Riverside MC specific thresholds)
+- HbA1c target: < 7.0% for most adults
+- HbA1c target: < 8.0% for elderly patients (>75 years) or those with frequent hypoglycemia
+- Fasting glucose target: 80-130 mg/dL
+- Post-meal glucose target: < 180 mg/dL (2 hours after eating)
+
+FIRST-LINE TREATMENT
+- Metformin 500mg twice daily with meals, titrated to 1000mg twice daily over 4 weeks
+- If HbA1c > 9.0% at diagnosis, consider dual therapy from the start
+- Lifestyle intervention mandatory: minimum 150 minutes moderate exercise per week
+- Dietary referral required within 30 days of diagnosis
+
+SECOND-LINE AGENTS (add if HbA1c not at goal after 3 months)
+1. GLP-1 receptor agonists (preferred if cardiovascular disease present): semaglutide, liraglutide
+2. SGLT-2 inhibitors (preferred if heart failure or CKD present): empagliflozin, dapagliflozin
+3. DPP-4 inhibitors (well tolerated, weight neutral): sitagliptin, saxagliptin
+4. Sulfonylureas (low cost, but hypoglycemia risk): glipizide, glimepiride
+
+MONITORING SCHEDULE
+- HbA1c every 3 months until stable, then every 6 months
+- Fasting lipid panel annually
+- Urine albumin-to-creatinine ratio annually
+- Foot exam at every visit
+- Dilated eye exam annually
+- Blood pressure at every visit, target < 130/80 mmHg
+
+HYPOGLYCEMIA MANAGEMENT
+- Mild (patient conscious): 15g fast-acting carbohydrates (4oz juice, glucose tablets)
+- Severe (patient unconscious): glucagon kit or IV dextrose, call 911
+- Threshold for hypoglycemia: blood glucose < 70 mg/dL
+
+CONTRAINDICATIONS FOR METFORMIN
+- eGFR < 30 mL/min/1.73m2 (discontinue)
+- eGFR 30-45 mL/min/1.73m2 (use with caution, reduce dose)
+- IV contrast procedures (hold 48 hours before and after)
+- Active liver disease or alcohol abuse

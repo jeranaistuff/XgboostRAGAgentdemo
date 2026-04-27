@@ -1,0 +1,64 @@
+RIVERSIDE MEDICAL CENTER - CLINICAL GUIDELINES
+Document: Cardiovascular Risk Assessment and Prevention Protocol v1.8
+Last Updated: December 2024
+
+CARDIOVASCULAR RISK ASSESSMENT
+All patients aged 40-79 without existing cardiovascular disease should have 10-year ASCVD risk calculated.
+Use the Pooled Cohort Equations (PCE) — available in the EMR under "CV Risk Calculator"
+
+Risk Categories:
+- Low risk       : < 5% 10-year ASCVD risk
+- Borderline risk: 5% to < 7.5%
+- Intermediate   : 7.5% to < 20%
+- High risk      : >= 20%
+
+Risk-Enhancing Factors (move patient to higher treatment intensity):
+- LDL-C >= 160 mg/dL
+- Metabolic syndrome
+- Chronic kidney disease
+- Inflammatory conditions (rheumatoid arthritis, psoriasis, HIV)
+- Premature menopause (before age 40)
+- South Asian ancestry
+- Persistently elevated triglycerides >= 175 mg/dL
+
+STATIN THERAPY GUIDELINES
+
+High-intensity statins (reduce LDL by >= 50%):
+- Atorvastatin 40-80mg daily
+- Rosuvastatin 20-40mg daily
+Indications: Clinical ASCVD, LDL >= 190 mg/dL, diabetes + high risk, 10-year risk >= 20%
+
+Moderate-intensity statins (reduce LDL by 30-50%):
+- Atorvastatin 10-20mg
+- Rosuvastatin 10mg
+- Simvastatin 20-40mg (note: 80mg dose avoided due to myopathy risk)
+Indications: 10-year risk 7.5-20%, diabetes age 40-75 with LDL 70-189 mg/dL
+
+LDL TREATMENT TARGETS
+- Known ASCVD (secondary prevention): LDL < 70 mg/dL (ideally < 55 mg/dL)
+- Very high risk ASCVD: LDL < 55 mg/dL — add ezetimibe or PCSK9 inhibitor if statin insufficient
+- Primary prevention, high risk: LDL < 70 mg/dL
+- Primary prevention, intermediate risk: LDL < 100 mg/dL
+
+NON-STATIN THERAPIES
+- Ezetimibe 10mg: adds ~20% additional LDL reduction, use if statin alone insufficient
+- PCSK9 inhibitors (evolocumab, alirocumab): reduce LDL by 50-60% on top of statins
+  Reserved for: familial hypercholesterolemia, very high-risk ASCVD, statin intolerance
+  Prior authorization required at Riverside MC — submit via EMR cardiology consult
+
+ASPIRIN FOR PRIMARY PREVENTION
+- Age < 40: Not recommended routinely
+- Age 40-70 with high ASCVD risk: May be considered (discuss bleeding risk vs benefit)
+- Age > 70: Do NOT initiate aspirin for primary prevention (bleeding risk outweighs benefit)
+- Secondary prevention (existing CVD): Low-dose aspirin 81mg daily — continue indefinitely
+
+BLOOD PRESSURE TARGETS IN CV DISEASE
+- Established coronary artery disease: < 130/80 mmHg
+- Heart failure with reduced ejection fraction: ACEI/ARB + beta-blocker + MRA mandatory
+- Post-MI: Beta-blocker for minimum 1 year, ACEI/ARB indefinitely
+
+LIFESTYLE COUNSELING (document in EMR at every visit)
+- Mediterranean or DASH diet reduces CV events by 25-30%
+- Physical activity: 150 min/week moderate or 75 min/week vigorous
+- Smoking cessation reduces CV risk by 50% within 1 year
+- Obesity management: refer to Riverside MC weight management program (ext. 5512) if BMI > 30

@@ -1,0 +1,59 @@
+RIVERSIDE MEDICAL CENTER - PHARMACY REFERENCE
+Document: High-Risk Drug Interactions in Primary Care
+Last Updated: March 2025
+
+CRITICAL INTERACTIONS (contraindicated - do not co-prescribe)
+
+1. Warfarin + Fluoroquinolone antibiotics (ciprofloxacin, levofloxacin)
+   - Risk: INR can double or triple, severe bleeding risk
+   - Action: Use alternative antibiotic. If unavoidable, reduce warfarin dose by 30-50%, check INR in 3-5 days
+
+2. ACE Inhibitor + ARB (e.g., lisinopril + losartan)
+   - Risk: Acute kidney injury, hyperkalemia, hypotension
+   - Action: Never combine. Choose one or the other.
+
+3. MAO Inhibitors + SSRIs (e.g., phenelzine + sertraline)
+   - Risk: Serotonin syndrome — potentially fatal
+   - Action: 14-day washout required when switching between classes
+
+4. Metformin + IV Iodinated Contrast
+   - Risk: Lactic acidosis (rare but serious)
+   - Action: Hold metformin 48 hours before and after contrast procedures. Restart only if renal function confirmed normal.
+
+MAJOR INTERACTIONS (use with caution, monitor closely)
+
+5. Metformin + Alcohol
+   - Risk: Increased lactic acidosis risk, severe hypoglycemia
+   - Monitoring: Counsel patients to avoid heavy alcohol use
+
+6. Statins + Amiodarone (high-dose simvastatin/lovastatin)
+   - Risk: Myopathy, rhabdomyolysis
+   - Action: Use rosuvastatin or pravastatin instead. Cap simvastatin at 20mg if amiodarone required.
+
+7. SSRIs + NSAIDs (e.g., sertraline + ibuprofen)
+   - Risk: Increased GI bleeding risk (3-15x higher)
+   - Action: Use acetaminophen instead. If NSAID required, add PPI.
+
+8. Lisinopril + Potassium-sparing diuretics (spironolactone)
+   - Risk: Hyperkalemia (K+ > 5.5 mEq/L can cause cardiac arrhythmia)
+   - Monitoring: Check potassium 1-2 weeks after starting combination, then every 3-6 months
+
+9. Warfarin + Aspirin
+   - Risk: Significantly increased bleeding risk
+   - Action: Avoid unless specific indication (e.g., mechanical heart valve). Use lowest aspirin dose.
+
+10. Fluoroquinolones + QT-prolonging drugs (e.g., azithromycin, haloperidol, methadone)
+    - Risk: Torsades de pointes, sudden cardiac death
+    - Action: EKG before prescribing. Avoid combination if QTc > 500ms.
+
+MODERATE INTERACTIONS (be aware, counsel patient)
+
+11. Metformin + Cimetidine — cimetidine raises metformin levels by ~40%. Use famotidine instead.
+12. Beta-blockers + Insulin/Sulfonylureas — masks hypoglycemia symptoms except sweating. Educate patient.
+13. Calcium Channel Blockers + Grapefruit juice — grapefruit inhibits CYP3A4, raising CCB levels. Counsel to avoid.
+14. Levothyroxine + Calcium supplements — calcium binds levothyroxine, reducing absorption. Separate by 4 hours.
+
+RENAL DOSING REMINDERS (Riverside MC pharmacist pager: ext. 3307)
+- eGFR < 60: Reassess metformin, NSAIDs, antibiotics
+- eGFR < 30: Discontinue metformin, most NSAIDs, nitrofurantoin
+- eGFR < 15: Gabapentin dose reduction by 75%, avoid direct oral anticoagulants (DOACs) without specialist input

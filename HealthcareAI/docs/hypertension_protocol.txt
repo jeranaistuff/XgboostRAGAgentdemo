@@ -1,0 +1,52 @@
+RIVERSIDE MEDICAL CENTER - CLINICAL GUIDELINES
+Document: Hypertension Diagnosis and Treatment Protocol v2.1
+Last Updated: February 2025
+
+BLOOD PRESSURE CLASSIFICATION (Riverside MC adopts AHA 2024 guidelines)
+- Normal          : Systolic < 120 AND Diastolic < 80 mmHg
+- Elevated        : Systolic 120-129 AND Diastolic < 80 mmHg
+- Stage 1 HTN     : Systolic 130-139 OR Diastolic 80-89 mmHg
+- Stage 2 HTN     : Systolic >= 140 OR Diastolic >= 90 mmHg
+- Hypertensive Crisis: Systolic > 180 AND/OR Diastolic > 120 mmHg (immediate referral)
+
+DIAGNOSIS REQUIREMENTS
+- Confirm with 2 readings at 2 separate visits, at least 1 week apart
+- Home blood pressure monitoring recommended: average > 130/80 confirms diagnosis
+- White coat hypertension: office BP elevated but home BP normal — treat lifestyle only
+- Masked hypertension: office BP normal but home BP elevated — treat as hypertension
+
+TREATMENT TARGETS
+- General population: < 130/80 mmHg
+- Age > 80 years: < 150/90 mmHg (to avoid orthostatic hypotension risk)
+- Diabetes patients: < 130/80 mmHg
+- CKD with proteinuria: < 130/80 mmHg
+
+FIRST-LINE MEDICATIONS
+1. Thiazide diuretics: chlorthalidone 12.5-25mg daily (preferred over HCTZ at Riverside MC)
+2. ACE inhibitors: lisinopril 10-40mg daily (avoid in pregnancy, bilateral renal artery stenosis)
+3. ARBs: losartan 50-100mg daily (use if ACE inhibitor causes cough)
+4. Calcium channel blockers: amlodipine 5-10mg daily (good for elderly, isolated systolic HTN)
+
+COMBINATION THERAPY
+- If BP > 20/10 mmHg above goal, start with two drugs simultaneously
+- Preferred combo: ACE inhibitor/ARB + CCB or thiazide
+- Avoid combining ACE inhibitor + ARB (increased adverse effects, no added benefit)
+
+LIFESTYLE MODIFICATIONS (required regardless of medication)
+- DASH diet: reduces BP by 8-14 mmHg
+- Sodium restriction: < 2.3g/day (ideally < 1.5g/day)
+- Weight loss: each 1kg lost reduces BP by ~1 mmHg
+- Exercise: 90-150 min/week aerobic activity
+- Limit alcohol: < 1 drink/day women, < 2 drinks/day men
+- Smoking cessation (does not directly lower BP but critical for CV risk reduction)
+
+RESISTANT HYPERTENSION
+Defined as BP above goal despite 3 optimal-dose antihypertensives (including a diuretic).
+- Rule out secondary causes: renal artery stenosis, primary aldosteronism, sleep apnea
+- Add spironolactone 25-50mg (strong evidence for resistant HTN)
+- Refer to hypertension specialist at Riverside MC Cardiology Dept (ext. 4421)
+
+HYPERTENSIVE EMERGENCY vs URGENCY
+- Emergency (end-organ damage present): ICU admission, IV labetalol or nicardipine
+  Target: reduce MAP by no more than 25% in first hour
+- Urgency (no end-organ damage): oral medications, reduce BP over 24-48 hours
